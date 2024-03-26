@@ -1,20 +1,9 @@
-# Model 3 2024 Checklist #
-
-If you find this guide helpful, I'd appreciate you [using my referral link](https://www.tesla.com/referral/mykel48491) when ordering from Tesla!
-
-This is available as a [mobile app for iOS and Android](https://teslaprep.glideapp.io), too.
-
-This pre-drive checklist is designed to be done in a specific flow to save time and make sure nothing is missed. You will essentially do several "laps" around the car. Start at the beginning and work your way down the list. By the end, your car will be fully reviewed. Feel free to print this out and bring it, along with a pen. Don't feel like you need to rush through the inspection. The delivery team at Tesla will certainly seem like they want to move quickly, but you don't need to leave the lot until you're 100% satisfied. Take your time
-
----
-
 ## SECTION A - Verify pre-delivery vehicle records ##
 > Make sure the car you ordered is the car you're getting!
 
 - [ ] Check for the correct full name and address on your paperwork
 - [ ] Confirm the vehicle's VIN matches your paperwork
 - [ ] Check the vehicle's "About" screen for any information that does not match the vehicle (found by tapping the car icon in the bottom-left, then tapping Software)
-- [ ] Verify that the vehicle's Monroney record matches your configuration
 - [ ] Verify that the vehicle's body color, interior, and wheels match what you configured
 
 ## SECTION B - Exterior inspection ##
@@ -30,6 +19,8 @@ This pre-drive checklist is designed to be done in a specific flow to save time 
 - [ ] Inspect the new single wing-shaped taillight design for reliability and alignment
 - [ ] Check the TESLA lettering on the rear in place of the Tesla logo badge
 - [ ] Check the redesigned lower rear bumper
+- [ ] Check front camera (Any condensation?)
+- [ ] Check Left and Right B pillar cameras and side mirror cameras (Any condensation?)
 
 ### Paint condition walkaround ###
 > Looking for scrapes, damage, overspray, underspray, dents and dings. Include all trim and door handles as part of this review
@@ -58,6 +49,8 @@ This pre-drive checklist is designed to be done in a specific flow to save time 
 - [ ] Test all doors (including frunk and trunk) to ensure they open and close without unreasonable effort or sound
 - [ ] Ensure door windows auto-close completely when doors are closed
 - [ ] Check the frunk/trunk lighting
+- [ ] Check for the towing eye in the frunk
+- [ ] Check weather seals (any loosening or tears?)
 - [ ] Check paint in areas such as door hinges, the bottom of the frunk/trunk, etc. that are not visible when doors are closed
 
 ### Glass and seal condition ###
@@ -86,7 +79,7 @@ This pre-drive checklist is designed to be done in a specific flow to save time 
 - [ ] Check sunvisor operation, mirror condition and lighting operation
 - [ ] Front overhead driver and passenger lights
 - [ ] Check center console cover slide operation and middle/rear compartment lights
-- [ ] Check glovebox opening and closing functions (and lighting)
+- [ ] Check glovebox opening and closing functions (and lighting) (Car icon on bottom left -> Controls -> Glove box)
 - [ ] Check seat all position controls
 - [ ] Check driver and passenger footwell lighting
 - [ ] Test connectivity of wireless phone charger
@@ -125,17 +118,9 @@ This pre-drive checklist is designed to be done in a specific flow to save time 
 ## SECTION E - Charging ability ##
 - [ ] Check the charge port door for proper operation and alignment (manual tap, through screen/app, and button on charger)
 - [ ] Check charge port indicator light
-- [ ] Ensure the vehicle will accept a
-
- charge at the Supercharger at the delivery center if available
+- [ ] Ensure the vehicle will accept a charge at the Supercharger at the delivery center if available
 - [ ] Check for J1772 adapter
 
 ## SECTION F - Inspect pairing connectivity ##
 - [ ] Test both key cards to ensure they work with your vehicle. Keep one key card on your person in case the phone app does not operate properly
 - [ ] Pair your smartphone to your vehicle over Bluetooth
-
-## SECTION G - Optional equipment ##
-- [ ] Check for front license plate bracket (if applicable in your region)
-- [ ] Check for the towing eye under the frunk mat
-- [ ] Maryland state deliveries should include Tesla's official inflation kit (usually stowed in trunk)
-- [ ] Verify that any additional floor mats are included (if ordered)
